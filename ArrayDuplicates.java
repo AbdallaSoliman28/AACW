@@ -1,5 +1,5 @@
 package task1;
-
+// task 1
 public class ArrayDuplicates {
 	public static int removeDuplicates(String arr[], int n)
     {
